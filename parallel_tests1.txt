@@ -1,0 +1,42 @@
+Test run 1 on input of size 3 (small input size)
+
+Move from Source to Destination
+Move from Source to Auxillary
+Move from Destination to Auxillary
+Move from Source to Destination
+Move from Auxillary to Source
+Move from Auxillary to Destination
+Move from Source to Destination
+
+Total time: 27658
+
+Test run 2 on input of size 4 (small input size)
+
+Move from Source to Auxillary
+Move from Source to Destination
+Move from Auxillary to Destination
+Move from Source to Auxillary
+Move from Destination to Source
+Move from Destination to Auxillary
+Move from Source to Auxillary
+Move from Source to Destination
+Move from Auxillary to Destination
+Move from Auxillary to Source
+Move from Destination to Source
+Move from Auxillary to Destination
+Move from Source to Auxillary
+Move from Source to Destination
+Move from Auxillary to Destination
+
+Total time: 51801
+
+Test run 3 on input of size 20 (small input size)
+
+
+Total time: 1521663687
+
+Test run 4 on input of size 21 (small input size)
+
+
+Total time: 2945080165
+
