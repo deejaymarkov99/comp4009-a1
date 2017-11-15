@@ -1,5 +1,9 @@
 COMP 4001 Assignment 1
 
+"The goal of this assignment is to write a CILK++ program to solve the Towers of Hanoi problem in parallel, using the recursive solution.
+
+The Towers of Hanoi problem and its recursive solution are explained here: http://en.wikipedia.org/wiki/Tower_of_Hanoi."
+
 All code by Damjan Markovic, based on cilk_template code provided.
 
 The code started getting slow at around n = 20 (so 2^20 - 1 steps, thats roughly 1 000 000).
